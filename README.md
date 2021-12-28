@@ -116,7 +116,7 @@
 
 ## December 2021
 ![Header](Resources/img_11.png)
-* __Kisaan-Andolan__ finally ended on a happy note. I supported the cause from tits beginning in 2020, and was really happy on 11 December 2021.
+* __Kisaan-Andolan__ finally ended on a happy note. I supported the cause from its beginning in 2020, and was really happy on 11 December 2021.
 * Learnt Solidity
 * Learnt about MORALIS Rpc, POLYGON MAINNET and POLYGON MUMBAI
 * Learnt about Filecoin, StackOS, Covalent, METAMASK
