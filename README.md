@@ -1,5 +1,9 @@
 # 2021-Wrap-Up
 ## 2021 Wrap-Up - Good Deeds, Small Achievements and Failures...
+<img src="https://komarev.com/ghpvc/?username=ankuraxz&color=green&style=plastic&label=VIEWS" alt="Visitor Count" />
+<a href="https://twitter.com/intent/follow?screen_name=DEV__ankur">
+        <img src="https://img.shields.io/twitter/follow/DEV__ankur?style=social&logo=twitter"
+            alt="follow on Twitter"></a>
 
 ![Header](Resources/1.gif)
 
